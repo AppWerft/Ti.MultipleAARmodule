@@ -8,5 +8,5 @@ In the current version of build process of Titanium modules the module can only 
 
 ### Patch of SDK
 
-### Addng of AARs and Jars
+### Adding of AARs and Jars
 
